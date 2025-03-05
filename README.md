@@ -2,6 +2,8 @@
 
 This is my personal website to show my profile, bio, photo, links, social media, companies, projects, posts, services, and more.
 
+This is just another explanation.
+
 ## Links
 
 - Website URL: [demo.mhaidarhanif.com](https://demo.mhaidarhanif.com)
